@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jojo141996
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jijoy
+- 👀 I’m interested in automation coding 
+- 🌱 I’m currently learning basic coding
+- 💞️ I’m looking to collaborate on anything that
+- 📫 How to reach me... not sure yet
 
 <!---
 jojo141996/jojo141996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
